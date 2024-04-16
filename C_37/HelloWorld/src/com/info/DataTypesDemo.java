@@ -1,4 +1,4 @@
-package com.info;
+																		package com.info;
 
 public class DataTypesDemo {
 	public static void main(String[] args) {
