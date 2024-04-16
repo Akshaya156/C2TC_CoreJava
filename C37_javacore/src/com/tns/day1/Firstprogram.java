@@ -1,9 +1,16 @@
 package com.tns.day1;
 
 public class Firstprogram {
-	public static void main(String[] args) {
-		System.out.println("First Program");
-		System.out.println("Welcome");
-	}
+	private void studentName(){
+		System.out.println("Akshaya");
+}
+	private void studentId(){
+		System.out.println("5008");
 
+}
+	public static void main(String[] args){
+		Firstprogram a=new Firstprogram();
+		a.studentName();
+		a.studentId();
+}
 }
